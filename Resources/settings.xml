@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Cam>
+    <MoveSpeed>5</MoveSpeed>
+    <Sensitivity>5</Sensitivity>
+    <FOV>90</FOV>
+  </Cam>
+  <Visual>
+    <Resolution>
+      <X>1920</X>
+      <Y>1080</Y>
+    </Resolution>
+    <Lighting>
+      <Enabled>true</Enabled>
+      <Spheres>false</Spheres>
+      <Ambience>
+        <R>128</R>
+        <G>128</G>
+        <B>128</B>
+      </Ambience>
+    </Lighting>
+    <Transparency>1</Transparency>
+  </Visual>
+</Settings>
